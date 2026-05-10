@@ -1,0 +1,51 @@
+ID Producto,Venta_Total,Cantidad Vendida,KMeans_Cluster,DBSCAN_Cluster,Segmento_Final,Nuevo_Cluster
+Producto_14,2894707.95,10462,2,-1,Clase A (Elite),
+Producto_16,2736781.07,10559,2,-1,Clase A (Elite),
+Producto_20,2778485.7399999998,11186,2,-1,Clase A (Elite),
+Producto_21,2818599.25,10925,2,-1,Clase A (Elite),
+Producto_23,3085552.66,11543,2,-1,Clase A (Elite),
+Producto_32,2946221.94,11244,2,-1,Clase A (Elite),
+Producto_36,2741243.77,10652,2,-1,Clase A (Elite),
+Producto_37,2799587.02,10563,2,-1,Clase A (Elite),
+Producto_4,2716338.19,10806,2,-1,Clase A (Elite),
+Producto_41,2688225.23,11009,2,-1,Clase A (Elite),
+Producto_48,2955232.83,11460,2,-1,Clase A (Elite),
+Producto_50,2713628.87,10985,2,-1,Clase A (Elite),
+Producto_6,2777344.85,10997,2,-1,Clase A (Elite),
+Producto_1,2495000.58,9800,0,-1,Clase B (Core Business),0.0
+Producto_10,2591236.7,10355,0,0,Clase B (Core Business),0.0
+Producto_11,2674458.52,9927,0,-1,Clase B (Core Business),0.0
+Producto_12,2564524.99,9910,0,-1,Clase B (Core Business),0.0
+Producto_13,2560554.27,10511,0,0,Clase B (Core Business),0.0
+Producto_15,2523537.84,10659,0,-1,Clase B (Core Business),0.0
+Producto_17,2550689.62,10078,0,0,Clase B (Core Business),0.0
+Producto_18,2405661.4,10054,0,-1,Clase B (Core Business),0.0
+Producto_19,2310031.77,9001,1,-1,Clase C (Baja Rotación),1.0
+Producto_2,2511139.61,10263,0,0,Clase B (Core Business),0.0
+Producto_22,2516989.43,10909,0,-1,Clase B (Core Business),0.0
+Producto_24,2270082.62,10024,1,1,Clase C (Baja Rotación),1.0
+Producto_25,2139790.73,8578,1,-1,Clase C (Baja Rotación),1.0
+Producto_26,2663634.62,9912,0,-1,Clase B (Core Business),0.0
+Producto_27,2671648.16,9898,0,-1,Clase B (Core Business),0.0
+Producto_28,2117886.8,9163,1,-1,Clase C (Baja Rotación),1.0
+Producto_29,2631466.89,10416,0,0,Clase B (Core Business),0.0
+Producto_3,2312805.39,9994,1,1,Clase C (Baja Rotación),1.0
+Producto_30,2545258.3,10219,0,0,Clase B (Core Business),0.0
+Producto_31,2310965.31,9820,1,1,Clase C (Baja Rotación),1.0
+Producto_33,2716013.93,10367,0,-1,Clase B (Core Business),0.0
+Producto_34,2414329.39,10232,0,-1,Clase B (Core Business),0.0
+Producto_35,2642451.98,10491,0,-1,Clase B (Core Business),0.0
+Producto_38,2378967.95,9756,1,1,Clase C (Baja Rotación),1.0
+Producto_39,2228306.25,8912,1,-1,Clase C (Baja Rotación),1.0
+Producto_40,2315750.86,9860,1,1,Clase C (Baja Rotación),1.0
+Producto_42,2538175.27,10331,0,0,Clase B (Core Business),0.0
+Producto_43,2574269.62,9326,0,-1,Clase B (Core Business),0.0
+Producto_44,2376563.61,9513,1,-1,Clase C (Baja Rotación),1.0
+Producto_45,2272644.74,9144,1,-1,Clase C (Baja Rotación),1.0
+Producto_46,2338157.95,9815,1,1,Clase C (Baja Rotación),1.0
+Producto_47,2209804.77,9191,1,-1,Clase C (Baja Rotación),1.0
+Producto_49,2593565.32,10310,0,0,Clase B (Core Business),0.0
+Producto_5,2475310.24,9361,1,-1,Clase C (Baja Rotación),1.0
+Producto_7,2715366.15,9785,0,-1,Clase B (Core Business),0.0
+Producto_8,2520637.21,9659,0,-1,Clase B (Core Business),0.0
+Producto_9,2537930.88,9876,0,-1,Clase B (Core Business),0.0
